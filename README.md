@@ -10,3 +10,6 @@ The tweets analyzed are those published by their own Twitter accounts and Englis
 before analyzing the most frequently occurring words.
 
 ![Trump tweets](Trump_Tweet_Words.png)
+
+
+![Obama tweets](Obama_Tweet_Words.png)
